@@ -2,4 +2,4 @@
 
 I made a PARAnormal distribution to get the hang of ggplot2 on R :)
 
-More weird plots to come.
+![His name is Casper.](https://github.com/diramputri/Spooky-Plot/blob/master/casper.PNG)
